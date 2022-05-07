@@ -1,3 +1,3 @@
 # exceptionOS
 A small project that I'm working on, currently still in beta.
-#0% done as of now
+:eyes:0% done as of now
